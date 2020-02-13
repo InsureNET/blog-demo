@@ -1,6 +1,6 @@
 <img src="./src/images/logo-iceberg.svg" width="150">
 
-# Gatsby multi-language starter with CMS
+# InsureNET - Insurance done differently
 
 [Demo on Netlify](https://iceberg-gatsby-multilang.netlify.com/)
 
