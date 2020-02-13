@@ -1,12 +1,10 @@
-<img src="./src/images/logo-iceberg.svg" width="150">
+<img src="./src/images/mockup0.png" width="150">
 
 # InsureNET - Insurance done differently
 
-[Demo on Netlify](https://iceberg-gatsby-multilang.netlify.com/)
+[Demo on Netlify](https://insurenet-ico-site.netlify.com/)
 
-[Starter on Gatsby](https://www.gatsbyjs.org/starters/diogorodrigues/iceberg-gatsby-multilang/)
-
-A starter Internationalization / i18n without third party plugins or packages for Posts and Pages. Different URLs dependending on the language. Focused on SEO, PWA, Image Optimization, Styled Components and more. This starter is also integrate with Netlify CMS to manage all pages, posts and images.
+## Development
 
 -   Translations by using GraphQL, hooks and context API
 -   Content in markdown for pages and posts in different languages
@@ -25,12 +23,12 @@ Assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed, run the fol
 
 **With gatsby-cli**:
 ```
-$ gatsby new gatsby-multilanguage-site https://github.com/diogorodrigues/iceberg-gatsby-multilang.git
+$ gatsby new gatsby-multilanguage-site https://github.com/insurenet/insurenet-ico.git
 ```
 
 **With git clone**:
 ```
-$ git clone https://github.com/diogorodrigues/iceberg-gatsby-multilang.git your-project-name # Clone the project
+$ git clone https://github.com/insurenet/insurenet-ico.git your-project-name # Clone the project
 
 cd your-project-name
 
